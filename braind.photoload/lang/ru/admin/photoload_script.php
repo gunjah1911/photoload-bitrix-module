@@ -1,0 +1,1 @@
+<?$MESS["BPL_SCRIPT_PHOTO_ADDED"] = "Добавлено фото: ";$MESS["BPL_SCRIPT_SUCCESS_COUNT"] = " фотографий успешно добавлено";$MESS["BPL_SCRIPT_FILE_DELETED"] = " удален из директории ";$MESS["BPL_SCRIPT_LINK_BACK_TO_PHOTOS"] = "К фотографиям альбома";$MESS["BPL_SCRIPT_LINK_BACK_TO_ALBUM"] = "К альбому";$MESS["BPL_MODULE_ACCESS_DENIED"] = "Нет доступа к модулю";
